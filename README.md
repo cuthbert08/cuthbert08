@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cuthbert08
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Developer
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on anything related to web development
 - 📫 How to reach me @cutbertndikudze@gmail.com
 - 😄 Pronouns: He/Him
